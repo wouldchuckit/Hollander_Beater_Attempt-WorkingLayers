@@ -3443,6 +3443,10 @@
               "uniqueID": "id-6871",
               "ioValues": [
                 {
+                  "name": "x length",
+                  "ioValue": 580
+                },
+                {
                   "name": "y length",
                   "ioValue": 200
                 }
@@ -3454,6 +3458,12 @@
               "y": 0.5103926096997691,
               "uniqueID": "id-6875",
               "name": "x/2",
+              "ioValues": [
+                {
+                  "name": "x",
+                  "ioValue": 580
+                }
+              ],
               "currentEquation": "x/2"
             },
             {
@@ -3479,6 +3489,10 @@
                 {
                   "name": "geometry",
                   "ioValue": "__GEOMETRY_INPUT__"
+                },
+                {
+                  "name": "xDist",
+                  "ioValue": 290
                 },
                 {
                   "name": "yDist",
@@ -3523,6 +3537,14 @@
                 {
                   "name": "geometry",
                   "ioValue": "__GEOMETRY_INPUT__"
+                },
+                {
+                  "name": "xDist",
+                  "ioValue": 380
+                },
+                {
+                  "name": "yDist",
+                  "ioValue": 210
                 },
                 {
                   "name": "zDist",
@@ -3607,6 +3629,10 @@
                 {
                   "name": "xDist",
                   "ioValue": 22.5
+                },
+                {
+                  "name": "yDist",
+                  "ioValue": 210
                 },
                 {
                   "name": "zDist",
@@ -4640,8 +4666,8 @@
                 },
                 {
                   "atomType": "Equation",
-                  "x": 0.1407766990291262,
-                  "y": 0.3394919168591224,
+                  "x": 0.13106796116504854,
+                  "y": 0.3510392609699769,
                   "uniqueID": "id-6464",
                   "name": "-RotorRadius -2*LiftingBoltDiameter -NutDiameter",
                   "currentEquation": "-RotorRadius -2*LiftingBoltDiameter -NutDiameter"
@@ -5074,16 +5100,16 @@
                 },
                 {
                   "atomType": "Equation",
-                  "x": 0.08414239482200647,
-                  "y": 0.20554272517321018,
+                  "x": 0.08360302049622438,
+                  "y": 0.18937644341801385,
                   "uniqueID": "id-5275",
                   "name": "(RotorRadius + ToothHeight + Clearance - CoverCurve)/sin(TopSlope*pi/180)",
                   "currentEquation": "(RotorRadius + ToothHeight + Clearance - CoverCurve)/sin(TopSlope*pi/180)"
                 },
                 {
                   "atomType": "Equation",
-                  "x": 0.08414239482200647,
-                  "y": 0.33718244803695147,
+                  "x": 0.08360302049622438,
+                  "y": 0.302540415704388,
                   "uniqueID": "id-5280",
                   "name": "(RotorRadius + ToothHeight + Clearance -CoverCurve)/tan(TopSlope*pi/180)",
                   "currentEquation": "(RotorRadius + ToothHeight + Clearance -CoverCurve)/tan(TopSlope*pi/180)"
