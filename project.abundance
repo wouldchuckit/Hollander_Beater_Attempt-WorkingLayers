@@ -5100,8 +5100,8 @@
                 },
                 {
                   "atomType": "Equation",
-                  "x": 0.08360302049622438,
-                  "y": 0.18937644341801385,
+                  "x": 0.0819848975188781,
+                  "y": 0.18013856812933027,
                   "uniqueID": "id-5275",
                   "name": "(RotorRadius + ToothHeight + Clearance - CoverCurve)/sin(TopSlope*pi/180)",
                   "currentEquation": "(RotorRadius + ToothHeight + Clearance - CoverCurve)/sin(TopSlope*pi/180)"
@@ -5220,7 +5220,7 @@
                 },
                 {
                   "atomType": "Equation",
-                  "x": 0.1402373247033441,
+                  "x": 0.1796116504854369,
                   "y": 0.3187066974595843,
                   "uniqueID": "id-5328",
                   "name": "-x",
