@@ -1561,7 +1561,17 @@
               "atomType": "Rectangle",
               "x": 0.21682847896440127,
               "y": 0.2586605080831409,
-              "uniqueID": "id-1095"
+              "uniqueID": "id-1095",
+              "ioValues": [
+                {
+                  "name": "x length",
+                  "ioValue": 580
+                },
+                {
+                  "name": "y length",
+                  "ioValue": 430
+                }
+              ]
             },
             {
               "atomType": "Circle",
@@ -1600,6 +1610,12 @@
               "y": 0.3510392609699769,
               "uniqueID": "id-1108",
               "name": "x/2",
+              "ioValues": [
+                {
+                  "name": "x",
+                  "ioValue": 580
+                }
+              ],
               "currentEquation": "x/2"
             },
             {
@@ -1608,6 +1624,12 @@
               "y": 0.44110854503464203,
               "uniqueID": "id-1112",
               "name": "y/2",
+              "ioValues": [
+                {
+                  "name": "y",
+                  "ioValue": 430
+                }
+              ],
               "currentEquation": "y/2"
             },
             {
@@ -1619,6 +1641,14 @@
                 {
                   "name": "geometry",
                   "ioValue": "__GEOMETRY_INPUT__"
+                },
+                {
+                  "name": "xDist",
+                  "ioValue": 290
+                },
+                {
+                  "name": "yDist",
+                  "ioValue": 215
                 },
                 {
                   "name": "zDist",
@@ -1635,6 +1665,14 @@
                 {
                   "name": "geometry",
                   "ioValue": "__GEOMETRY_INPUT__"
+                },
+                {
+                  "name": "xDist",
+                  "ioValue": 380
+                },
+                {
+                  "name": "yDist",
+                  "ioValue": 210
                 },
                 {
                   "name": "zDist",
@@ -1656,6 +1694,10 @@
                   "name": "xDist",
                   "ioValue": 22.5,
                   "currentEquation": "1.5 * HingeAxleDiameter"
+                },
+                {
+                  "name": "yDist",
+                  "ioValue": 210
                 },
                 {
                   "name": "zDist",
