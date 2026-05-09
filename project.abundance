@@ -1928,8 +1928,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.33872707659115425,
-          "y": 0.5681293302540416,
+          "x": 0.34573894282632145,
+          "y": 0.5496535796766744,
           "uniqueID": "id-6497",
           "name": "LiftingLayer",
           "ioValues": [
@@ -4225,8 +4225,8 @@
             },
             {
               "atomType": "Assembly",
-              "x": 0.7464940668824164,
-              "y": 0.5034642032332564,
+              "x": 0.6893203883495145,
+              "y": 0.4618937644341801,
               "uniqueID": "id-5183",
               "ioValues": [
                 {
@@ -4245,8 +4245,8 @@
             },
             {
               "atomType": "Readme",
-              "x": 0.3597626752966559,
-              "y": 0.8175519630484989,
+              "x": 0.5215749730312838,
+              "y": 0.9122401847575057,
               "uniqueID": "id-5188",
               "name": "README",
               "ioValues": [
@@ -4305,8 +4305,8 @@
             },
             {
               "atomType": "Molecule",
-              "x": 0.2766990291262136,
-              "y": 0.23325635103926096,
+              "x": 0.4039913700107875,
+              "y": 0.7205542725173211,
               "uniqueID": "id-1228",
               "name": "BottomSection",
               "ioValues": [
@@ -4999,8 +4999,8 @@
             },
             {
               "atomType": "Molecule",
-              "x": 0.23247033441208195,
-              "y": 0.43187066974595845,
+              "x": 0.4077669902912621,
+              "y": 0.24711316397228636,
               "uniqueID": "id-1232",
               "name": "TopSection",
               "ioValues": [
@@ -6197,8 +6197,8 @@
             },
             {
               "atomType": "Molecule",
-              "x": 0.24325782092772383,
-              "y": 0.6605080831408776,
+              "x": 0.3268608414239482,
+              "y": 0.4503464203233256,
               "uniqueID": "id-1236",
               "name": "Rotor",
               "ioValues": [
@@ -6307,8 +6307,8 @@
                 },
                 {
                   "atomType": "Tag",
-                  "x": 0.7259978425026968,
-                  "y": 0.302540415704388,
+                  "x": 0.8074433656957929,
+                  "y": 0.21939953810623555,
                   "uniqueID": "id-2136",
                   "name": "Rotor",
                   "ioValues": [
@@ -6575,8 +6575,8 @@
                 },
                 {
                   "atomType": "Tag",
-                  "x": 0.6504854368932039,
-                  "y": 0.6443418013856812,
+                  "x": 0.6413160733549083,
+                  "y": 0.6258660508083141,
                   "uniqueID": "id-5149",
                   "name": "RotorTeeth",
                   "ioValues": [
@@ -6609,15 +6609,15 @@
                   "uniqueID": "id-5155",
                   "ioValues": [
                     {
-                      "name": "Shape 1",
-                      "ioValue": null
-                    },
-                    {
                       "name": "Shape 2",
                       "ioValue": null
                     },
                     {
                       "name": "Shape 3",
+                      "ioValue": null
+                    },
+                    {
+                      "name": "Shape 4",
                       "ioValue": null
                     }
                   ]
@@ -9671,6 +9671,30 @@
                   },
                   "fileTypeVersion": 1,
                   "lastReloadedFromGithubAt": 1777836316964
+                },
+                {
+                  "atomType": "Move",
+                  "x": 0.7259978425026968,
+                  "y": 0.21939953810623555,
+                  "uniqueID": "id-8251",
+                  "ioValues": [
+                    {
+                      "name": "geometry",
+                      "ioValue": "__GEOMETRY_INPUT__"
+                    },
+                    {
+                      "name": "xDist",
+                      "ioValue": 380
+                    },
+                    {
+                      "name": "yDist",
+                      "ioValue": 210
+                    },
+                    {
+                      "name": "zDist",
+                      "ioValue": 0
+                    }
+                  ]
                 }
               ],
               "allConnectors": [
@@ -9717,11 +9741,11 @@
                 {
                   "ap2Name": "geometry",
                   "ap1ID": "id-2132",
-                  "ap2ID": "id-2136"
+                  "ap2ID": "id-8251"
                 },
                 {
-                  "ap2Name": "Shape 1",
-                  "ap1ID": "id-2136",
+                  "ap2Name": "Shape 4",
+                  "ap1ID": "id-2132",
                   "ap2ID": "id-5155"
                 },
                 {
@@ -9750,9 +9774,19 @@
                   "ap2ID": "id-2158"
                 },
                 {
+                  "ap2Name": "xDist",
+                  "ap1ID": "id-2164",
+                  "ap2ID": "id-8251"
+                },
+                {
                   "ap2Name": "yDist",
                   "ap1ID": "id-2167",
                   "ap2ID": "id-2158"
+                },
+                {
+                  "ap2Name": "yDist",
+                  "ap1ID": "id-2167",
+                  "ap2ID": "id-8251"
                 },
                 {
                   "ap2Name": "geometry",
@@ -9863,6 +9897,11 @@
                   "ap2Name": "value",
                   "ap1ID": "id-1772",
                   "ap2ID": "id-3412"
+                },
+                {
+                  "ap2Name": "geometry",
+                  "ap1ID": "id-8251",
+                  "ap2ID": "id-2136"
                 }
               ],
               "fileTypeVersion": 1
