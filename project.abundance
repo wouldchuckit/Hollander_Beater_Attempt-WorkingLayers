@@ -1404,8 +1404,8 @@
         },
         {
           "atomType": "Move",
-          "x": 0.5560949298813377,
-          "y": 0.30946882217090066,
+          "x": 0.7750809061488674,
+          "y": 0.18244803695150116,
           "uniqueID": "id-6813",
           "ioValues": [
             {
@@ -1460,8 +1460,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.12459546925566342,
-          "y": 0.5427251732101617,
+          "x": 0.5852211434735707,
+          "y": 0.12009237875288684,
           "uniqueID": "id-981",
           "name": "MachineBlock",
           "ioValues": [
@@ -1865,8 +1865,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.41909385113268605,
-          "y": 0.605080831408776,
+          "x": 0.2810140237324703,
+          "y": 0.5219399538106235,
           "uniqueID": "id-6497",
           "name": "LiftingLayer",
           "ioValues": [
@@ -3769,8 +3769,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.296655879180151,
-          "y": 0.33718244803695147,
+          "x": 0.6952535059331176,
+          "y": 0.3464203233256351,
           "uniqueID": "id-1147",
           "name": "RotorLayer",
           "ioValues": [
@@ -9926,6 +9926,36 @@
           "ap2Name": "zDist",
           "ap1ID": "id-774",
           "ap2ID": "id-6813"
+        },
+        {
+          "ap2Name": "WoodThick",
+          "ap1ID": "id-774",
+          "ap2ID": "id-6497"
+        },
+        {
+          "ap2Name": "AxleDiameter",
+          "ap1ID": "id-777",
+          "ap2ID": "id-6497"
+        },
+        {
+          "ap2Name": "HingeAxleDiameter",
+          "ap1ID": "id-780",
+          "ap2ID": "id-6497"
+        },
+        {
+          "ap2Name": "RotorRadius",
+          "ap1ID": "id-783",
+          "ap2ID": "id-6497"
+        },
+        {
+          "ap2Name": "TopSlope",
+          "ap1ID": "id-792",
+          "ap2ID": "id-6497"
+        },
+        {
+          "ap2Name": "TopThick",
+          "ap1ID": "id-807",
+          "ap2ID": "id-6497"
         },
         {
           "ap2Name": "PillowBlock",
