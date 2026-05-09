@@ -9988,6 +9988,11 @@
           "ap2ID": "id-6497"
         },
         {
+          "ap2Name": "NutDiameter",
+          "ap1ID": "id-6481",
+          "ap2ID": "id-6497"
+        },
+        {
           "ap2Name": "number or geometry",
           "ap1ID": "id-6493",
           "ap2ID": "id-772"
