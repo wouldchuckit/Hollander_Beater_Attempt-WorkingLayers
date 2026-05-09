@@ -4999,8 +4999,8 @@
             },
             {
               "atomType": "Molecule",
-              "x": 0.4077669902912621,
-              "y": 0.24711316397228636,
+              "x": 0.41585760517799353,
+              "y": 0.23094688221709006,
               "uniqueID": "id-1232",
               "name": "TopSection",
               "ioValues": [
@@ -6377,8 +6377,8 @@
                 },
                 {
                   "atomType": "Move",
-                  "x": 0.8522114347357066,
-                  "y": 0.4549653579676674,
+                  "x": 0.8360302049622439,
+                  "y": 0.4457274826789838,
                   "uniqueID": "id-2158",
                   "ioValues": [
                     {
@@ -6669,8 +6669,8 @@
                 },
                 {
                   "atomType": "Tag",
-                  "x": 0.9196332254584682,
-                  "y": 0.41570438799076215,
+                  "x": 0.8845738942826322,
+                  "y": 0.5450346420323325,
                   "uniqueID": "id-6453",
                   "name": "RotorWithTeeth",
                   "ioValues": [
@@ -9695,6 +9695,22 @@
                       "ioValue": 0
                     }
                   ]
+                },
+                {
+                  "atomType": "Assembly",
+                  "x": 0.9358144552319309,
+                  "y": 0.3741339491916859,
+                  "uniqueID": "id-8258",
+                  "ioValues": [
+                    {
+                      "name": "Shape 1",
+                      "ioValue": null
+                    },
+                    {
+                      "name": "Shape 2",
+                      "ioValue": null
+                    }
+                  ]
                 }
               ],
               "allConnectors": [
@@ -9747,6 +9763,11 @@
                   "ap2Name": "Shape 4",
                   "ap1ID": "id-2132",
                   "ap2ID": "id-5155"
+                },
+                {
+                  "ap2Name": "Shape 2",
+                  "ap1ID": "id-2136",
+                  "ap2ID": "id-8258"
                 },
                 {
                   "ap2Name": "retain",
@@ -9879,9 +9900,9 @@
                   "ap2ID": "id-2132"
                 },
                 {
-                  "ap2Name": "number or geometry",
+                  "ap2Name": "Shape 1",
                   "ap1ID": "id-6453",
-                  "ap2ID": "id-1238"
+                  "ap2ID": "id-8258"
                 },
                 {
                   "ap2Name": "geometry",
@@ -9902,6 +9923,11 @@
                   "ap2Name": "geometry",
                   "ap1ID": "id-8251",
                   "ap2ID": "id-2136"
+                },
+                {
+                  "ap2Name": "number or geometry",
+                  "ap1ID": "id-8258",
+                  "ap2ID": "id-1238"
                 }
               ],
               "fileTypeVersion": 1
