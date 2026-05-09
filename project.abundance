@@ -2162,14 +2162,18 @@
               "x": 0.09061488673139158,
               "y": 0.25635103926096997,
               "uniqueID": "id-6568",
-              "name": "-y/2 + MachineHeight",
+              "name": "-y/2 + MachineHeightNew",
               "ioValues": [
                 {
                   "name": "y",
                   "ioValue": 30
+                },
+                {
+                  "name": "MachineHeightNew",
+                  "ioValue": 430
                 }
               ],
-              "currentEquation": "-y/2 + MachineHeight"
+              "currentEquation": "-y/2 + MachineHeightNew"
             },
             {
               "atomType": "Move",
@@ -2200,8 +2204,14 @@
               "x": 0.5366774541531824,
               "y": 0.833718244803695,
               "uniqueID": "id-6578",
-              "name": "MachineHeight - AxleY - TopThick -2*NutThick + Gap",
-              "currentEquation": "MachineHeight - AxleY - TopThick -2*NutThick + Gap"
+              "name": "MachineHeightNew - AxleY - TopThick -2*NutThick + Gap",
+              "ioValues": [
+                {
+                  "name": "MachineHeightNew",
+                  "ioValue": 430
+                }
+              ],
+              "currentEquation": "MachineHeightNew - AxleY - TopThick -2*NutThick + Gap"
             },
             {
               "atomType": "Input",
@@ -2222,16 +2232,28 @@
               "x": 0.0895361380798274,
               "y": 0.4457274826789838,
               "uniqueID": "id-6598",
-              "name": "90 -atan(1.5*HingeAxleDiameter/(.5*(MachineHeight - AxleY)))* 180/pi",
-              "currentEquation": "90 -atan(1.5*HingeAxleDiameter/(.5*(MachineHeight - AxleY)))* 180/pi"
+              "name": "90 -atan(1.5*HingeAxleDiameter/(.5*(MachineHeightNew - AxleY)))* 180/pi",
+              "ioValues": [
+                {
+                  "name": "MachineHeightNew",
+                  "ioValue": 430
+                }
+              ],
+              "currentEquation": "90 -atan(1.5*HingeAxleDiameter/(.5*(MachineHeightNew - AxleY)))* 180/pi"
             },
             {
               "atomType": "Equation",
-              "x": 0.09007551240560949,
-              "y": 0.5311778290993071,
+              "x": 0.09223300970873785,
+              "y": 0.5404157043879907,
               "uniqueID": "id-6603",
-              "name": "(MachineHeight - AxleY)",
-              "currentEquation": "(MachineHeight - AxleY)"
+              "name": "(MachineHeightNew- AxleY)",
+              "ioValues": [
+                {
+                  "name": "MachineHeightNew",
+                  "ioValue": 430
+                }
+              ],
+              "currentEquation": "(MachineHeightNew- AxleY)"
             },
             {
               "atomType": "Rectangle",
@@ -2618,14 +2640,18 @@
               "x": 0.28532901833872704,
               "y": 0.9284064665127021,
               "uniqueID": "id-6728",
-              "name": "MachineHeight - tt",
+              "name": "MachineHeightNew - tt",
               "ioValues": [
                 {
                   "name": "tt",
                   "ioValue": 30
+                },
+                {
+                  "name": "MachineHeightNew",
+                  "ioValue": 430
                 }
               ],
-              "currentEquation": "MachineHeight - tt"
+              "currentEquation": "MachineHeightNew - tt"
             },
             {
               "atomType": "Difference",
@@ -2949,6 +2975,31 @@
               "ap2Name": "yDist",
               "ap1ID": "id-6531",
               "ap2ID": "id-6797"
+            },
+            {
+              "ap2Name": "MachineHeightNew",
+              "ap1ID": "id-6531",
+              "ap2ID": "id-6568"
+            },
+            {
+              "ap2Name": "MachineHeightNew",
+              "ap1ID": "id-6531",
+              "ap2ID": "id-6598"
+            },
+            {
+              "ap2Name": "MachineHeightNew",
+              "ap1ID": "id-6531",
+              "ap2ID": "id-6603"
+            },
+            {
+              "ap2Name": "MachineHeightNew",
+              "ap1ID": "id-6531",
+              "ap2ID": "id-6728"
+            },
+            {
+              "ap2Name": "MachineHeightNew",
+              "ap1ID": "id-6531",
+              "ap2ID": "id-6578"
             },
             {
               "ap2Name": "geometry",
@@ -5132,16 +5183,28 @@
                   "x": 0.08737864077669903,
                   "y": 0.18475750577367206,
                   "uniqueID": "id-5275",
-                  "name": "(RotorRadius + ToothHeight + Clearance - CoverCurve)/sin(TopSlope*pi/180)",
-                  "currentEquation": "(RotorRadius + ToothHeight + Clearance - CoverCurve)/sin(TopSlope*pi/180)"
+                  "name": "(RotorRadius + ToothHeight + Clearance - CoverCurveNew)/sin(TopSlope*pi/180)",
+                  "ioValues": [
+                    {
+                      "name": "CoverCurveNew",
+                      "ioValue": 25.00000000000003
+                    }
+                  ],
+                  "currentEquation": "(RotorRadius + ToothHeight + Clearance - CoverCurveNew)/sin(TopSlope*pi/180)"
                 },
                 {
                   "atomType": "Equation",
                   "x": 0.08737864077669903,
                   "y": 0.32101616628175517,
                   "uniqueID": "id-5280",
-                  "name": "(RotorRadius + ToothHeight + Clearance -CoverCurve)/tan(TopSlope*pi/180)",
-                  "currentEquation": "(RotorRadius + ToothHeight + Clearance -CoverCurve)/tan(TopSlope*pi/180)"
+                  "name": "(RotorRadius + ToothHeight + Clearance -CoverCurveNew)/tan(TopSlope*pi/180)",
+                  "ioValues": [
+                    {
+                      "name": "CoverCurveNew",
+                      "ioValue": 25.00000000000003
+                    }
+                  ],
+                  "currentEquation": "(RotorRadius + ToothHeight + Clearance -CoverCurveNew)/tan(TopSlope*pi/180)"
                 },
                 {
                   "atomType": "Equation",
@@ -5149,6 +5212,12 @@
                   "y": 0.45958429561200925,
                   "uniqueID": "id-5283",
                   "name": "x/2",
+                  "ioValues": [
+                    {
+                      "name": "x",
+                      "ioValue": 268.46787517317597
+                    }
+                  ],
                   "currentEquation": "x/2"
                 },
                 {
@@ -5157,6 +5226,10 @@
                   "y": 0.4988452655889145,
                   "uniqueID": "id-5287",
                   "ioValues": [
+                    {
+                      "name": "x length",
+                      "ioValue": 268.46787517317597
+                    },
                     {
                       "name": "y length",
                       "ioValue": 180
@@ -5299,6 +5372,12 @@
                   "y": 0.3187066974595843,
                   "uniqueID": "id-5328",
                   "name": "-x",
+                  "ioValues": [
+                    {
+                      "name": "x",
+                      "ioValue": 268.46787517317597
+                    }
+                  ],
                   "currentEquation": "-x"
                 },
                 {
@@ -5609,6 +5688,16 @@
                   "ap2Name": "height",
                   "ap1ID": "id-5195",
                   "ap2ID": "id-6448"
+                },
+                {
+                  "ap2Name": "CoverCurveNew",
+                  "ap1ID": "id-5207",
+                  "ap2ID": "id-5280"
+                },
+                {
+                  "ap2Name": "CoverCurveNew",
+                  "ap1ID": "id-5207",
+                  "ap2ID": "id-5275"
                 },
                 {
                   "ap2Name": "xDist",
