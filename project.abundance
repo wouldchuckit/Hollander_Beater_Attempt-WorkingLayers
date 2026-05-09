@@ -4145,8 +4145,8 @@
             },
             {
               "atomType": "Molecule",
-              "x": 0.23247033441208195,
-              "y": 0.24942263279445726,
+              "x": 0.3182308522114347,
+              "y": 0.3648960739030023,
               "uniqueID": "id-1228",
               "name": "BottomSection",
               "ioValues": [
@@ -4184,15 +4184,15 @@
                 },
                 {
                   "name": "AxleX",
-                  "ioValue": 10
+                  "ioValue": 380
                 },
                 {
                   "name": "AxleY",
-                  "ioValue": 10
+                  "ioValue": 210
                 },
                 {
                   "name": "MachineLength",
-                  "ioValue": 10
+                  "ioValue": 580
                 },
                 {
                   "name": "Clearance",
@@ -4367,11 +4367,11 @@
                     },
                     {
                       "name": "xDist",
-                      "ioValue": 10
+                      "ioValue": 380
                     },
                     {
                       "name": "yDist",
-                      "ioValue": 10
+                      "ioValue": 210
                     },
                     {
                       "name": "zDist",
@@ -4415,7 +4415,7 @@
                     },
                     {
                       "name": "xDist",
-                      "ioValue": 10
+                      "ioValue": 580
                     },
                     {
                       "name": "yDist",
@@ -9783,14 +9783,29 @@
               "ap2ID": "id-1232"
             },
             {
+              "ap2Name": "AxleX",
+              "ap1ID": "id-1199",
+              "ap2ID": "id-1228"
+            },
+            {
               "ap2Name": "AxleY",
               "ap1ID": "id-1202",
               "ap2ID": "id-1232"
             },
             {
+              "ap2Name": "AxleY",
+              "ap1ID": "id-1202",
+              "ap2ID": "id-1228"
+            },
+            {
               "ap2Name": "MachineLength",
               "ap1ID": "id-1205",
               "ap2ID": "id-1232"
+            },
+            {
+              "ap2Name": "MachineLength",
+              "ap1ID": "id-1205",
+              "ap2ID": "id-1228"
             },
             {
               "ap2Name": "MachineHeight",
@@ -9803,9 +9818,19 @@
               "ap2ID": "id-1232"
             },
             {
+              "ap2Name": "Clearance",
+              "ap1ID": "id-1283",
+              "ap2ID": "id-1228"
+            },
+            {
               "ap2Name": "WaterHeight",
               "ap1ID": "id-5172",
               "ap2ID": "id-1232"
+            },
+            {
+              "ap2Name": "WaterHeight",
+              "ap1ID": "id-5172",
+              "ap2ID": "id-1228"
             },
             {
               "ap2Name": "geometry",
@@ -9816,6 +9841,16 @@
               "ap2Name": "number or geometry",
               "ap1ID": "id-6456",
               "ap2ID": "id-1149"
+            },
+            {
+              "ap2Name": "LiftingBoltDiameter",
+              "ap1ID": "id-6472",
+              "ap2ID": "id-1228"
+            },
+            {
+              "ap2Name": "NutDiamter",
+              "ap1ID": "id-6484",
+              "ap2ID": "id-1228"
             },
             {
               "ap2Name": "Shape 1",
