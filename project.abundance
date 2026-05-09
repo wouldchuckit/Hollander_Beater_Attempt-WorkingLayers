@@ -1045,8 +1045,8 @@
     },
     {
       "atomType": "Molecule",
-      "x": 0.4530744336569579,
-      "y": 0.47113163972286376,
+      "x": 0.4563106796116505,
+      "y": 0.48036951501154734,
       "uniqueID": "id-770",
       "name": "PartsContainer",
       "ioValues": [
@@ -1460,8 +1460,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.2222222222222222,
-          "y": 0.16859122401847573,
+          "x": 0.1477885652642934,
+          "y": 0.17551963048498845,
           "uniqueID": "id-981",
           "name": "MachineBlock",
           "ioValues": [
@@ -1739,8 +1739,8 @@
             },
             {
               "atomType": "Extrude",
-              "x": 0.5587918015102481,
-              "y": 0.3903002309468822,
+              "x": 0.6774541531823085,
+              "y": 0.40415704387990764,
               "uniqueID": "id-1143",
               "ioValues": [
                 {
@@ -1865,8 +1865,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.3220064724919094,
-          "y": 0.6073903002309469,
+          "x": 0.33872707659115425,
+          "y": 0.5681293302540416,
           "uniqueID": "id-6497",
           "name": "LiftingLayer",
           "ioValues": [
@@ -2643,12 +2643,12 @@
               "name": "MachineHeightNew - tt",
               "ioValues": [
                 {
-                  "name": "tt",
-                  "ioValue": 30
-                },
-                {
                   "name": "MachineHeightNew",
                   "ioValue": 430
+                },
+                {
+                  "name": "tt",
+                  "ioValue": 30
                 }
               ],
               "currentEquation": "MachineHeightNew - tt"
@@ -3311,8 +3311,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.1925566343042071,
-          "y": 0.8083140877598153,
+          "x": 0.255663430420712,
+          "y": 0.8036951501154734,
           "uniqueID": "id-6820",
           "name": "AxleSupportLayer",
           "ioValues": [
@@ -3866,8 +3866,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.4163969795037756,
-          "y": 0.3648960739030023,
+          "x": 0.424487594390507,
+          "y": 0.35334872979214776,
           "uniqueID": "id-1147",
           "name": "RotorLayer",
           "ioValues": [
