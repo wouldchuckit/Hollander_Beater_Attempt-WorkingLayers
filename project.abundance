@@ -1201,126 +1201,126 @@
         {
           "atomType": "Input",
           "x": 0.0165,
-          "y": 0.11085450346420322,
+          "y": 0.16,
           "uniqueID": "id-777",
           "name": "AxleDiameter"
         },
         {
           "atomType": "Input",
           "x": 0.0165,
-          "y": 0.14549653579676675,
+          "y": 0.22,
           "uniqueID": "id-780",
           "name": "HingeAxleDiameter"
         },
         {
           "atomType": "Input",
           "x": 0.0165,
-          "y": 0.18475750577367206,
+          "y": 0.28,
           "uniqueID": "id-783",
           "name": "RotorRadius"
         },
         {
           "atomType": "Input",
           "x": 0.0165,
-          "y": 0.22170900692840645,
+          "y": 0.34,
           "uniqueID": "id-786",
           "name": "UpSlope"
         },
         {
           "atomType": "Input",
           "x": 0.0165,
-          "y": 0.22632794457274827,
+          "y": 0.4,
           "uniqueID": "id-789",
           "name": "DownSlope"
         },
         {
           "atomType": "Input",
           "x": 0.0165,
-          "y": 0.14549653579676675,
+          "y": 0.46,
           "uniqueID": "id-792",
           "name": "TopSlope"
         },
         {
           "atomType": "Input",
           "x": 0.0165,
-          "y": 0.17090069284064663,
+          "y": 0.52,
           "uniqueID": "id-795",
           "name": "CoverCurve"
         },
         {
           "atomType": "Input",
           "x": 0.0165,
-          "y": 0.14780600461893764,
+          "y": 0.5800000000000001,
           "uniqueID": "id-798",
           "name": "ToothStock"
         },
         {
           "atomType": "Input",
           "x": 0.0165,
-          "y": 0.15011547344110854,
+          "y": 0.6400000000000001,
           "uniqueID": "id-801",
           "name": "ToothHeight"
         },
         {
           "atomType": "Input",
           "x": 0.0165,
-          "y": 0.18013856812933027,
+          "y": 0.7000000000000002,
           "uniqueID": "id-804",
           "name": "ToothThick"
         },
         {
           "atomType": "Input",
           "x": 0.0165,
-          "y": 0.16397228637413394,
+          "y": 0.7600000000000002,
           "uniqueID": "id-807",
           "name": "TopThick"
         },
         {
           "atomType": "Input",
           "x": 0.0165,
-          "y": 0.17090069284064663,
+          "y": 0.8200000000000003,
           "uniqueID": "id-810",
           "name": "BedPlateWidth"
         },
         {
           "atomType": "Input",
           "x": 0.0165,
-          "y": 0.18706697459584296,
+          "y": 0.8800000000000003,
           "uniqueID": "id-813",
           "name": "BaseHeight"
         },
         {
           "atomType": "Input",
           "x": 0.0165,
-          "y": 0.9653579676674365,
+          "y": 0.9400000000000004,
           "uniqueID": "id-816",
           "name": "AxleX"
         },
         {
           "atomType": "Input",
           "x": 0.0165,
-          "y": 0.8937644341801385,
+          "y": 0.95,
           "uniqueID": "id-819",
           "name": "AxleY"
         },
         {
           "atomType": "Input",
           "x": 0.0165,
-          "y": 0.8267898383371823,
+          "y": 0.95,
           "uniqueID": "id-822",
           "name": "MachineLength"
         },
         {
           "atomType": "Input",
           "x": 0.0165,
-          "y": 0.7782909930715934,
+          "y": 0.95,
           "uniqueID": "id-825",
           "name": "MachineHeight"
         },
         {
           "atomType": "Input",
           "x": 0.0165,
-          "y": 0.7251732101616628,
+          "y": 0.95,
           "uniqueID": "id-975",
           "name": "PillowBlock",
           "type": "geometry"
@@ -1328,14 +1328,14 @@
         {
           "atomType": "Input",
           "x": 0.0165,
-          "y": 0.6697459584295612,
+          "y": 0.95,
           "uniqueID": "id-978",
           "name": "Gap"
         },
         {
           "atomType": "Input",
           "x": 0.0165,
-          "y": 0.6143187066974596,
+          "y": 0.95,
           "uniqueID": "id-1074",
           "name": "LiftingBolt",
           "type": "geometry"
@@ -1343,35 +1343,35 @@
         {
           "atomType": "Input",
           "x": 0.0165,
-          "y": 0.558891454965358,
+          "y": 0.95,
           "uniqueID": "id-1244",
           "name": "Clearance"
         },
         {
           "atomType": "Input",
           "x": 0.0165,
-          "y": 0.5057736720554272,
+          "y": 0.95,
           "uniqueID": "id-2123",
           "name": "NumTeeth"
         },
         {
           "atomType": "Input",
           "x": 0.0165,
-          "y": 0.4503464203233256,
+          "y": 0.95,
           "uniqueID": "id-5175",
           "name": "WaterHeight"
         },
         {
           "atomType": "Input",
           "x": 0.0165,
-          "y": 0.3972286374133949,
+          "y": 0.95,
           "uniqueID": "id-6475",
           "name": "LiftingBoltDiameter"
         },
         {
           "atomType": "Input",
           "x": 0.0165,
-          "y": 0.34180138568129326,
+          "y": 0.95,
           "uniqueID": "id-6481",
           "name": "NutDiameter"
         },
@@ -1398,7 +1398,7 @@
         {
           "atomType": "Input",
           "x": 0.0165,
-          "y": 0.2840646651270208,
+          "y": 0.95,
           "uniqueID": "id-6591",
           "name": "NutThick"
         },
@@ -1460,8 +1460,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.5852211434735707,
-          "y": 0.12009237875288684,
+          "x": 0.5728155339805825,
+          "y": 0.13856812933025403,
           "uniqueID": "id-981",
           "name": "MachineBlock",
           "ioValues": [
@@ -3945,147 +3945,147 @@
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.23094688221709006,
+              "y": 0.16,
               "uniqueID": "id-1157",
               "name": "WoodThick"
             },
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.40877598152424943,
+              "y": 0.22,
               "uniqueID": "id-1160",
               "name": "HingeAxleDiameter"
             },
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.4503464203233256,
+              "y": 0.28,
               "uniqueID": "id-1163",
               "name": "RotorRadius"
             },
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.5635103926096998,
+              "y": 0.34,
               "uniqueID": "id-1166",
               "name": "UpSlope"
             },
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.6143187066974596,
+              "y": 0.4,
               "uniqueID": "id-1169",
               "name": "DownSlope"
             },
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.44803695150115475,
+              "y": 0.46,
               "uniqueID": "id-1172",
               "name": "TopSlope"
             },
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.5034642032332564,
+              "y": 0.52,
               "uniqueID": "id-1175",
               "name": "CoverCurve"
             },
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.792147806004619,
+              "y": 0.5800000000000001,
               "uniqueID": "id-1178",
               "name": "ToothStock"
             },
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.6581986143187066,
+              "y": 0.6400000000000001,
               "uniqueID": "id-1181",
               "name": "ToothHeight"
             },
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.5519630484988453,
+              "y": 0.7000000000000002,
               "uniqueID": "id-1184",
               "name": "ToothThick"
             },
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.4780600461893765,
+              "y": 0.7600000000000002,
               "uniqueID": "id-1187",
               "name": "TopThick"
             },
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.5150115473441108,
+              "y": 0.8200000000000003,
               "uniqueID": "id-1190",
               "name": "BedPlateWidth"
             },
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.6836027713625865,
+              "y": 0.8800000000000003,
               "uniqueID": "id-1193",
               "name": "BaseHeight"
             },
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.9584295612009238,
+              "y": 0.9400000000000004,
               "uniqueID": "id-1199",
               "name": "AxleX"
             },
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.8452655889145496,
+              "y": 0.95,
               "uniqueID": "id-1202",
               "name": "AxleY"
             },
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.9006928406466512,
+              "y": 0.95,
               "uniqueID": "id-1205",
               "name": "MachineLength"
             },
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.7528868360277136,
+              "y": 0.95,
               "uniqueID": "id-1208",
               "name": "MachineHeight"
             },
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.6928406466512702,
+              "y": 0.95,
               "uniqueID": "id-1283",
               "name": "Clearance"
             },
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.6766743648960739,
+              "y": 0.95,
               "uniqueID": "id-2126",
               "name": "NumTeeth"
             },
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.6189376443418013,
+              "y": 0.95,
               "uniqueID": "id-4216",
               "name": "AxleDiameter"
             },
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.697459584295612,
+              "y": 0.95,
               "uniqueID": "id-5172",
               "name": "WaterHeight"
             },
@@ -4158,14 +4158,14 @@
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.4965357967667437,
+              "y": 0.95,
               "uniqueID": "id-6472",
               "name": "LiftingBoltDiameter"
             },
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.5404157043879907,
+              "y": 0.95,
               "uniqueID": "id-6484",
               "name": "NutDiameter"
             },
@@ -4186,14 +4186,6 @@
                   "currentEquation": "WoodThick"
                 },
                 {
-                  "name": "RotorRadius",
-                  "ioValue": 170
-                },
-                {
-                  "name": "UpSlope",
-                  "ioValue": 9.462322208025617
-                },
-                {
                   "name": "DownSlope",
                   "ioValue": 45,
                   "currentEquation": "DownSlope"
@@ -4207,18 +4199,6 @@
                   "name": "BaseHeight",
                   "ioValue": 30,
                   "currentEquation": "BaseHeight"
-                },
-                {
-                  "name": "AxleX",
-                  "ioValue": 380
-                },
-                {
-                  "name": "AxleY",
-                  "ioValue": 210
-                },
-                {
-                  "name": "MachineLength",
-                  "ioValue": 580
                 },
                 {
                   "name": "Clearance",
@@ -4366,13 +4346,7 @@
                   "atomType": "Circle",
                   "x": 0.19525350593311758,
                   "y": 0.8868360277136258,
-                  "uniqueID": "id-4249",
-                  "ioValues": [
-                    {
-                      "name": "diameter",
-                      "ioValue": 360
-                    }
-                  ]
+                  "uniqueID": "id-4249"
                 },
                 {
                   "atomType": "Input",
@@ -4390,14 +4364,6 @@
                     {
                       "name": "geometry",
                       "ioValue": "__GEOMETRY_INPUT__"
-                    },
-                    {
-                      "name": "xDist",
-                      "ioValue": 380
-                    },
-                    {
-                      "name": "yDist",
-                      "ioValue": 210
                     },
                     {
                       "name": "zDist",
@@ -4422,10 +4388,6 @@
                     {
                       "name": "y-axis degrees",
                       "ioValue": 0
-                    },
-                    {
-                      "name": "z-axis degrees",
-                      "ioValue": -9.462322208025617
                     }
                   ]
                 },
@@ -4438,10 +4400,6 @@
                     {
                       "name": "geometry",
                       "ioValue": "__GEOMETRY_INPUT__"
-                    },
-                    {
-                      "name": "xDist",
-                      "ioValue": 580
                     },
                     {
                       "name": "yDist",
@@ -4462,10 +4420,6 @@
                     {
                       "name": "geometry",
                       "ioValue": "__GEOMETRY_INPUT__"
-                    },
-                    {
-                      "name": "xDist",
-                      "ioValue": -190
                     },
                     {
                       "name": "yDist",
@@ -4542,10 +4496,6 @@
                     {
                       "name": "geometry",
                       "ioValue": "__GEOMETRY_INPUT__"
-                    },
-                    {
-                      "name": "xDist",
-                      "ioValue": 380
                     },
                     {
                       "name": "yDist",
@@ -4660,12 +4610,6 @@
                   "y": 0.48036951501154734,
                   "uniqueID": "id-6459",
                   "name": "- T",
-                  "ioValues": [
-                    {
-                      "name": "T",
-                      "ioValue": 9.462322208025617
-                    }
-                  ],
                   "currentEquation": "- T"
                 },
                 {
@@ -4885,17 +4829,9 @@
                   "currentEquation": "HingeAxleDiameter"
                 },
                 {
-                  "name": "RotorRadius",
-                  "ioValue": 170
-                },
-                {
                   "name": "TopSlope",
                   "ioValue": 30,
                   "currentEquation": "TopSlope"
-                },
-                {
-                  "name": "CoverCurve",
-                  "ioValue": 25.00000000000003
                 },
                 {
                   "name": "ToothHeight",
@@ -4906,22 +4842,6 @@
                   "name": "TopThick",
                   "ioValue": 40,
                   "currentEquation": "TopThick"
-                },
-                {
-                  "name": "AxleX",
-                  "ioValue": 380
-                },
-                {
-                  "name": "AxleY",
-                  "ioValue": 210
-                },
-                {
-                  "name": "MachineLength",
-                  "ioValue": 580
-                },
-                {
-                  "name": "MachineHeight",
-                  "ioValue": 430
                 },
                 {
                   "name": "Clearance",
@@ -5051,13 +4971,7 @@
                   "atomType": "Circle",
                   "x": 0.4530744336569579,
                   "y": 0.11547344110854503,
-                  "uniqueID": "id-5241",
-                  "ioValues": [
-                    {
-                      "name": "diameter",
-                      "ioValue": 360
-                    }
-                  ]
+                  "uniqueID": "id-5241"
                 },
                 {
                   "atomType": "Move",
@@ -5068,14 +4982,6 @@
                     {
                       "name": "geometry",
                       "ioValue": "__GEOMETRY_INPUT__"
-                    },
-                    {
-                      "name": "xDist",
-                      "ioValue": 380
-                    },
-                    {
-                      "name": "yDist",
-                      "ioValue": 210
                     },
                     {
                       "name": "zDist",
@@ -5129,29 +5035,13 @@
                   "y": 0.45958429561200925,
                   "uniqueID": "id-5283",
                   "name": "x/2",
-                  "ioValues": [
-                    {
-                      "name": "x",
-                      "ioValue": 268.46787517317597
-                    }
-                  ],
                   "currentEquation": "x/2"
                 },
                 {
                   "atomType": "Rectangle",
                   "x": 0.2626752966558792,
                   "y": 0.4988452655889145,
-                  "uniqueID": "id-5287",
-                  "ioValues": [
-                    {
-                      "name": "x length",
-                      "ioValue": 268.46787517317597
-                    },
-                    {
-                      "name": "y length",
-                      "ioValue": 180
-                    }
-                  ]
+                  "uniqueID": "id-5287"
                 },
                 {
                   "atomType": "Equation",
@@ -5172,14 +5062,6 @@
                       "ioValue": "__GEOMETRY_INPUT__"
                     },
                     {
-                      "name": "xDist",
-                      "ioValue": 134.23393758658798
-                    },
-                    {
-                      "name": "yDist",
-                      "ioValue": -64.99999999999997
-                    },
-                    {
                       "name": "zDist",
                       "ioValue": 0
                     }
@@ -5189,13 +5071,7 @@
                   "atomType": "Circle",
                   "x": 0.296655879180151,
                   "y": 0.6212471131639723,
-                  "uniqueID": "id-5301",
-                  "ioValues": [
-                    {
-                      "name": "diameter",
-                      "ioValue": 50.00000000000006
-                    }
-                  ]
+                  "uniqueID": "id-5301"
                 },
                 {
                   "atomType": "Equation",
@@ -5203,12 +5079,6 @@
                   "y": 0.6720554272517321,
                   "uniqueID": "id-5304",
                   "name": "- y/2",
-                  "ioValues": [
-                    {
-                      "name": "y",
-                      "ioValue": 180
-                    }
-                  ],
                   "currentEquation": "- y/2"
                 },
                 {
@@ -5217,12 +5087,6 @@
                   "y": 0.7644341801385681,
                   "uniqueID": "id-5308",
                   "name": "Y + CoverCurve",
-                  "ioValues": [
-                    {
-                      "name": "Y",
-                      "ioValue": -90
-                    }
-                  ],
                   "currentEquation": "Y + CoverCurve"
                 },
                 {
@@ -5256,14 +5120,6 @@
                       "ioValue": "__GEOMETRY_INPUT__"
                     },
                     {
-                      "name": "xDist",
-                      "ioValue": -268.46787517317597
-                    },
-                    {
-                      "name": "yDist",
-                      "ioValue": 154.99999999999997
-                    },
-                    {
                       "name": "zDist",
                       "ioValue": 0
                     }
@@ -5275,12 +5131,6 @@
                   "y": 0.8683602771362586,
                   "uniqueID": "id-5324",
                   "name": "- CoverCurve + y",
-                  "ioValues": [
-                    {
-                      "name": "y",
-                      "ioValue": 180
-                    }
-                  ],
                   "currentEquation": "- CoverCurve + y"
                 },
                 {
@@ -5289,12 +5139,6 @@
                   "y": 0.3187066974595843,
                   "uniqueID": "id-5328",
                   "name": "-x",
-                  "ioValues": [
-                    {
-                      "name": "x",
-                      "ioValue": 268.46787517317597
-                    }
-                  ],
                   "currentEquation": "-x"
                 },
                 {
@@ -5333,14 +5177,6 @@
                       "ioValue": "__GEOMETRY_INPUT__"
                     },
                     {
-                      "name": "xDist",
-                      "ioValue": 380
-                    },
-                    {
-                      "name": "yDist",
-                      "ioValue": 210
-                    },
-                    {
                       "name": "zDist",
                       "ioValue": 0
                     }
@@ -5352,10 +5188,6 @@
                   "y": 0.7713625866050808,
                   "uniqueID": "id-5351",
                   "ioValues": [
-                    {
-                      "name": "x length",
-                      "ioValue": 50.00000000000006
-                    },
                     {
                       "name": "y length",
                       "ioValue": 200,
@@ -5420,10 +5252,6 @@
                   "uniqueID": "id-5368",
                   "ioValues": [
                     {
-                      "name": "x length",
-                      "ioValue": 360
-                    },
-                    {
                       "name": "y length",
                       "ioValue": 200,
                       "currentEquation": "WaterHeight"
@@ -5436,12 +5264,6 @@
                   "y": 0.9399538106235567,
                   "uniqueID": "id-5372",
                   "name": "2*R",
-                  "ioValues": [
-                    {
-                      "name": "R",
-                      "ioValue": 180
-                    }
-                  ],
                   "currentEquation": "2*R"
                 },
                 {
@@ -5453,10 +5275,6 @@
                     {
                       "name": "geometry",
                       "ioValue": "__GEOMETRY_INPUT__"
-                    },
-                    {
-                      "name": "xDist",
-                      "ioValue": 380
                     },
                     {
                       "name": "yDist",
@@ -5491,10 +5309,6 @@
                   "uniqueID": "id-6400",
                   "ioValues": [
                     {
-                      "name": "x length",
-                      "ioValue": 580
-                    },
-                    {
                       "name": "y length",
                       "ioValue": 200
                     }
@@ -5509,10 +5323,6 @@
                     {
                       "name": "geometry",
                       "ioValue": "__GEOMETRY_INPUT__"
-                    },
-                    {
-                      "name": "xDist",
-                      "ioValue": 290
                     },
                     {
                       "name": "yDist",
@@ -5530,12 +5340,6 @@
                   "y": 0.22632794457274827,
                   "uniqueID": "id-6410",
                   "name": "x/2",
-                  "ioValues": [
-                    {
-                      "name": "x",
-                      "ioValue": 580
-                    }
-                  ],
                   "currentEquation": "x/2"
                 },
                 {
@@ -6052,10 +5856,6 @@
                   "currentEquation": "WoodThick"
                 },
                 {
-                  "name": "RotorRadius",
-                  "ioValue": 170
-                },
-                {
                   "name": "Tooth",
                   "ioValue": "__GEOMETRY_INPUT__"
                 },
@@ -6063,14 +5863,6 @@
                   "name": "NumTeeth",
                   "ioValue": 20,
                   "currentEquation": "NumTeeth"
-                },
-                {
-                  "name": "AxleX",
-                  "ioValue": 380
-                },
-                {
-                  "name": "AxleY",
-                  "ioValue": 210
                 },
                 {
                   "name": "AxleDiameter",
@@ -6125,13 +5917,7 @@
                   "atomType": "Circle",
                   "x": 0.22707659115426104,
                   "y": 0.26558891454965355,
-                  "uniqueID": "id-2129",
-                  "ioValues": [
-                    {
-                      "name": "diameter",
-                      "ioValue": 340
-                    }
-                  ]
+                  "uniqueID": "id-2129"
                 },
                 {
                   "atomType": "Difference",
@@ -6210,10 +5996,6 @@
                       "ioValue": 0
                     },
                     {
-                      "name": "yDist",
-                      "ioValue": 170
-                    },
-                    {
                       "name": "zDist",
                       "ioValue": 0
                     }
@@ -6228,14 +6010,6 @@
                     {
                       "name": "geometry",
                       "ioValue": "__GEOMETRY_INPUT__"
-                    },
-                    {
-                      "name": "xDist",
-                      "ioValue": 380
-                    },
-                    {
-                      "name": "yDist",
-                      "ioValue": 210
                     },
                     {
                       "name": "zDist",
@@ -6359,12 +6133,6 @@
                   "y": 0.24018475750577367,
                   "uniqueID": "id-3407",
                   "name": "r*2",
-                  "ioValues": [
-                    {
-                      "name": "r",
-                      "ioValue": 170
-                    }
-                  ],
                   "currentEquation": "r*2"
                 },
                 {
