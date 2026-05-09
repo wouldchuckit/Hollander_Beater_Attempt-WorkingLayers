@@ -248,8 +248,8 @@
     },
     {
       "atomType": "Equation",
-      "x": 0.14724919093851133,
-      "y": 0.3348729792147806,
+      "x": 0.1477885652642934,
+      "y": 0.33718244803695147,
       "uniqueID": "id-598",
       "name": "WaterHeight+2*ToothHeight + r",
       "ioValues": [
@@ -1045,8 +1045,8 @@
     },
     {
       "atomType": "Molecule",
-      "x": 0.4077669902912621,
-      "y": 0.45727482678983833,
+      "x": 0.4083063646170442,
+      "y": 0.46420323325635104,
       "uniqueID": "id-770",
       "name": "PartsContainer",
       "ioValues": [
@@ -3919,63 +3919,63 @@
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.16,
+              "y": 0.12702078521939952,
               "uniqueID": "id-1157",
               "name": "WoodThick"
             },
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.22,
+              "y": 0.15704387990762125,
               "uniqueID": "id-1160",
               "name": "HingeAxleDiameter"
             },
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.28,
+              "y": 0.18937644341801385,
               "uniqueID": "id-1163",
               "name": "RotorRadius"
             },
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.34,
+              "y": 0.22401847575057737,
               "uniqueID": "id-1166",
               "name": "UpSlope"
             },
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.4,
+              "y": 0.25635103926096997,
               "uniqueID": "id-1169",
               "name": "DownSlope"
             },
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.46,
+              "y": 0.14087759815242495,
               "uniqueID": "id-1172",
               "name": "TopSlope"
             },
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.52,
+              "y": 0.16859122401847573,
               "uniqueID": "id-1175",
               "name": "CoverCurve"
             },
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.5800000000000001,
+              "y": 0.20323325635103925,
               "uniqueID": "id-1178",
               "name": "ToothStock"
             },
             {
               "atomType": "Input",
               "x": 0.0165,
-              "y": 0.6400000000000001,
+              "y": 0.25404157043879905,
               "uniqueID": "id-1181",
               "name": "ToothHeight"
             },
@@ -4145,8 +4145,8 @@
             },
             {
               "atomType": "Molecule",
-              "x": 0.1720604099244876,
-              "y": 0.4942263279445727,
+              "x": 0.35706580366774543,
+              "y": 0.47113163972286376,
               "uniqueID": "id-1228",
               "name": "BottomSection",
               "ioValues": [
@@ -4161,11 +4161,11 @@
                 },
                 {
                   "name": "RotorRadius",
-                  "ioValue": 10
+                  "ioValue": 170
                 },
                 {
                   "name": "UpSlope",
-                  "ioValue": 10
+                  "ioValue": 9.462322208025617
                 },
                 {
                   "name": "DownSlope",
@@ -4344,7 +4344,7 @@
                   "ioValues": [
                     {
                       "name": "diameter",
-                      "ioValue": 40
+                      "ioValue": 360
                     }
                   ]
                 },
@@ -4399,7 +4399,7 @@
                     },
                     {
                       "name": "z-axis degrees",
-                      "ioValue": -10
+                      "ioValue": -9.462322208025617
                     }
                   ]
                 },
@@ -4439,7 +4439,7 @@
                     },
                     {
                       "name": "xDist",
-                      "ioValue": -30
+                      "ioValue": -190
                     },
                     {
                       "name": "yDist",
@@ -4637,7 +4637,7 @@
                   "ioValues": [
                     {
                       "name": "T",
-                      "ioValue": 10
+                      "ioValue": 9.462322208025617
                     }
                   ],
                   "currentEquation": "- T"
@@ -4834,8 +4834,8 @@
             },
             {
               "atomType": "Molecule",
-              "x": 0.174217907227616,
-              "y": 0.29330254041570436,
+              "x": 0.13915857605177992,
+              "y": 0.24018475750577367,
               "uniqueID": "id-1232",
               "name": "TopSection",
               "ioValues": [
@@ -4855,7 +4855,7 @@
                 },
                 {
                   "name": "RotorRadius",
-                  "ioValue": 10
+                  "ioValue": 170
                 },
                 {
                   "name": "TopSlope",
@@ -4864,7 +4864,7 @@
                 },
                 {
                   "name": "CoverCurve",
-                  "ioValue": 10
+                  "ioValue": 25.00000000000003
                 },
                 {
                   "name": "ToothHeight",
@@ -5024,7 +5024,7 @@
                   "ioValues": [
                     {
                       "name": "diameter",
-                      "ioValue": 40
+                      "ioValue": 360
                     }
                   ]
                 },
@@ -5101,7 +5101,7 @@
                   "ioValues": [
                     {
                       "name": "x",
-                      "ioValue": 17.320508075688775
+                      "ioValue": 268.46787517317597
                     }
                   ],
                   "currentEquation": "x/2"
@@ -5114,11 +5114,11 @@
                   "ioValues": [
                     {
                       "name": "x length",
-                      "ioValue": 17.320508075688775
+                      "ioValue": 268.46787517317597
                     },
                     {
                       "name": "y length",
-                      "ioValue": 20
+                      "ioValue": 180
                     }
                   ]
                 },
@@ -5142,11 +5142,11 @@
                     },
                     {
                       "name": "xDist",
-                      "ioValue": 8.660254037844387
+                      "ioValue": 134.23393758658798
                     },
                     {
                       "name": "yDist",
-                      "ioValue": 0
+                      "ioValue": -64.99999999999997
                     },
                     {
                       "name": "zDist",
@@ -5162,7 +5162,7 @@
                   "ioValues": [
                     {
                       "name": "diameter",
-                      "ioValue": 20
+                      "ioValue": 50.00000000000006
                     }
                   ]
                 },
@@ -5175,7 +5175,7 @@
                   "ioValues": [
                     {
                       "name": "y",
-                      "ioValue": 20
+                      "ioValue": 180
                     }
                   ],
                   "currentEquation": "- y/2"
@@ -5189,7 +5189,7 @@
                   "ioValues": [
                     {
                       "name": "Y",
-                      "ioValue": -10
+                      "ioValue": -90
                     }
                   ],
                   "currentEquation": "Y + CoverCurve"
@@ -5226,11 +5226,11 @@
                     },
                     {
                       "name": "xDist",
-                      "ioValue": -17.320508075688775
+                      "ioValue": -268.46787517317597
                     },
                     {
                       "name": "yDist",
-                      "ioValue": 10
+                      "ioValue": 154.99999999999997
                     },
                     {
                       "name": "zDist",
@@ -5247,7 +5247,7 @@
                   "ioValues": [
                     {
                       "name": "y",
-                      "ioValue": 20
+                      "ioValue": 180
                     }
                   ],
                   "currentEquation": "- CoverCurve + y"
@@ -5261,7 +5261,7 @@
                   "ioValues": [
                     {
                       "name": "x",
-                      "ioValue": 17.320508075688775
+                      "ioValue": 268.46787517317597
                     }
                   ],
                   "currentEquation": "-x"
@@ -5323,7 +5323,7 @@
                   "ioValues": [
                     {
                       "name": "x length",
-                      "ioValue": 20
+                      "ioValue": 50.00000000000006
                     },
                     {
                       "name": "y length",
@@ -5390,7 +5390,7 @@
                   "ioValues": [
                     {
                       "name": "x length",
-                      "ioValue": 40
+                      "ioValue": 360
                     },
                     {
                       "name": "y length",
@@ -5408,7 +5408,7 @@
                   "ioValues": [
                     {
                       "name": "R",
-                      "ioValue": 20
+                      "ioValue": 180
                     }
                   ],
                   "currentEquation": "2*R"
@@ -9691,6 +9691,91 @@
               "ap2Name": "MachineBlock",
               "ap1ID": "id-1151",
               "ap2ID": "id-1232"
+            },
+            {
+              "ap2Name": "WoodThick",
+              "ap1ID": "id-1157",
+              "ap2ID": "id-1232"
+            },
+            {
+              "ap2Name": "WoodThick",
+              "ap1ID": "id-1157",
+              "ap2ID": "id-1228"
+            },
+            {
+              "ap2Name": "HingeAxleDiameter",
+              "ap1ID": "id-1160",
+              "ap2ID": "id-1232"
+            },
+            {
+              "ap2Name": "RotorRadius",
+              "ap1ID": "id-1163",
+              "ap2ID": "id-1232"
+            },
+            {
+              "ap2Name": "RotorRadius",
+              "ap1ID": "id-1163",
+              "ap2ID": "id-1228"
+            },
+            {
+              "ap2Name": "UpSlope",
+              "ap1ID": "id-1166",
+              "ap2ID": "id-1228"
+            },
+            {
+              "ap2Name": "DownSlope",
+              "ap1ID": "id-1169",
+              "ap2ID": "id-1228"
+            },
+            {
+              "ap2Name": "TopSlope",
+              "ap1ID": "id-1172",
+              "ap2ID": "id-1232"
+            },
+            {
+              "ap2Name": "CoverCurve",
+              "ap1ID": "id-1175",
+              "ap2ID": "id-1232"
+            },
+            {
+              "ap2Name": "ToothStock",
+              "ap1ID": "id-1178",
+              "ap2ID": "id-1240"
+            },
+            {
+              "ap2Name": "ToothHeight",
+              "ap1ID": "id-1181",
+              "ap2ID": "id-1240"
+            },
+            {
+              "ap2Name": "ToothHeight",
+              "ap1ID": "id-1181",
+              "ap2ID": "id-1232"
+            },
+            {
+              "ap2Name": "ToothHeight",
+              "ap1ID": "id-1181",
+              "ap2ID": "id-1228"
+            },
+            {
+              "ap2Name": "ToothThick",
+              "ap1ID": "id-1184",
+              "ap2ID": "id-1240"
+            },
+            {
+              "ap2Name": "TopThick",
+              "ap1ID": "id-1187",
+              "ap2ID": "id-1232"
+            },
+            {
+              "ap2Name": "BedPlateWidth",
+              "ap1ID": "id-1190",
+              "ap2ID": "id-1228"
+            },
+            {
+              "ap2Name": "BaseHeight",
+              "ap1ID": "id-1193",
+              "ap2ID": "id-1228"
             },
             {
               "ap2Name": "geometry",
