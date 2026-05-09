@@ -1045,8 +1045,8 @@
     },
     {
       "atomType": "Molecule",
-      "x": 0.4083063646170442,
-      "y": 0.46420323325635104,
+      "x": 0.4530744336569579,
+      "y": 0.47113163972286376,
       "uniqueID": "id-770",
       "name": "PartsContainer",
       "ioValues": [
@@ -2186,6 +2186,10 @@
                   "ioValue": 290
                 },
                 {
+                  "name": "yDist",
+                  "ioValue": 415
+                },
+                {
                   "name": "zDist",
                   "ioValue": 0
                 }
@@ -2238,6 +2242,10 @@
                 {
                   "name": "x length",
                   "ioValue": 90
+                },
+                {
+                  "name": "y length",
+                  "ioValue": 220
                 }
               ]
             },
@@ -2290,6 +2298,10 @@
                 {
                   "name": "y-axis degrees",
                   "ioValue": 0
+                },
+                {
+                  "name": "z-axis degrees",
+                  "ioValue": 78.43986920578223
                 }
               ]
             },
@@ -2592,6 +2604,10 @@
                   "ioValue": 580
                 },
                 {
+                  "name": "yDist",
+                  "ioValue": 400
+                },
+                {
                   "name": "zDist",
                   "ioValue": 0
                 }
@@ -2678,6 +2694,10 @@
               "uniqueID": "id-6750",
               "name": "2* sqrt(x^2 + y^2)",
               "ioValues": [
+                {
+                  "name": "x",
+                  "ioValue": 180
+                },
                 {
                   "name": "y",
                   "ioValue": 527.5
