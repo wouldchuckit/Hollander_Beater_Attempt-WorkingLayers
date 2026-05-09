@@ -38,19 +38,19 @@
 This one is made in 4 pieces of 5 to result in 20 rotated pieces. 
 You would need to manually adjust and copy for different numbers of rotor teeth.  
 
-![readme](/readmeid-3412.svg?v=ncnwnx2)
+![readme](/readmeid-3412.svg?v=7xjy7i)
 
 
 
 I intend to drill holes through the rotor and teeth when it is all assembled for stainless steel screws to go through the teeth to hold them in. Currently thinking diagonal but could do vertically through the tooth with a countersink 
 
-![readme](/readmeid-5190.svg?v=2gqhcj)
+![readme](/readmeid-5190.svg?v=nn2onil)
 
 
 
 There should be teeth set into the bottom or curve of the bottom section.  All of the hollander wisdom suggets they should be at an angle across the bottom so I will perhaps cut those later by hand.  
 
-![readme](/readmeid-5188.svg?v=nwggc3z)
+![readme](/readmeid-5188.svg?v=rxf7km)
 
 
 
