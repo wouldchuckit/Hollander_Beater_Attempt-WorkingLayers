@@ -1460,8 +1460,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.5728155339805825,
-          "y": 0.13856812933025403,
+          "x": 0.2222222222222222,
+          "y": 0.16859122401847573,
           "uniqueID": "id-981",
           "name": "MachineBlock",
           "ioValues": [
@@ -1865,8 +1865,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.42880258899676377,
-          "y": 0.3810623556581986,
+          "x": 0.3220064724919094,
+          "y": 0.6073903002309469,
           "uniqueID": "id-6497",
           "name": "LiftingLayer",
           "ioValues": [
@@ -2159,8 +2159,8 @@
             },
             {
               "atomType": "Equation",
-              "x": 0.09331175836030205,
-              "y": 0.2586605080831409,
+              "x": 0.09061488673139158,
+              "y": 0.25635103926096997,
               "uniqueID": "id-6568",
               "name": "-y/2 + MachineHeight",
               "ioValues": [
@@ -3240,8 +3240,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.4099244875943905,
-          "y": 0.7782909930715934,
+          "x": 0.1925566343042071,
+          "y": 0.8083140877598153,
           "uniqueID": "id-6820",
           "name": "AxleSupportLayer",
           "ioValues": [
@@ -3795,8 +3795,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.7157497303128372,
-          "y": 0.4064665127020785,
+          "x": 0.4163969795037756,
+          "y": 0.3648960739030023,
           "uniqueID": "id-1147",
           "name": "RotorLayer",
           "ioValues": [
@@ -5109,16 +5109,16 @@
                 },
                 {
                   "atomType": "Equation",
-                  "x": 0.07659115426105717,
-                  "y": 0.19168591224018475,
+                  "x": 0.08737864077669903,
+                  "y": 0.18475750577367206,
                   "uniqueID": "id-5275",
                   "name": "(RotorRadius + ToothHeight + Clearance - CoverCurve)/sin(TopSlope*pi/180)",
                   "currentEquation": "(RotorRadius + ToothHeight + Clearance - CoverCurve)/sin(TopSlope*pi/180)"
                 },
                 {
                   "atomType": "Equation",
-                  "x": 0.0819848975188781,
-                  "y": 0.3163972286374134,
+                  "x": 0.08737864077669903,
+                  "y": 0.32101616628175517,
                   "uniqueID": "id-5280",
                   "name": "(RotorRadius + ToothHeight + Clearance -CoverCurve)/tan(TopSlope*pi/180)",
                   "currentEquation": "(RotorRadius + ToothHeight + Clearance -CoverCurve)/tan(TopSlope*pi/180)"
